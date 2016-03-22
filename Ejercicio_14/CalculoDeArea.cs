@@ -24,8 +24,9 @@ namespace Ejercicio_14
         /// <param name="b">
         /// Base del triangulo.
         /// </param>
+        /// <param name="h">
         /// Altura del triangulo.
-        /// <param name="h"></param>
+        /// </param>
         public static double CalcularTriangulo(double b, double h)
         {
             return b * h / 2;
